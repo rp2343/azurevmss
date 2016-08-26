@@ -68,7 +68,7 @@
         "storageLoop"
       ],
       "sku": {
-        "name": "Standard_F4s",
+        "name": "Standard_F16s",
         "tier": "Standard",
         "capacity": "[parameters('instanceCount')]"
       },
