@@ -101,7 +101,7 @@
             "computerNamePrefix": "[parameters('vmSSName')]",
             "adminUsername": "[parameters('adminUsername')]",
             "adminPassword": "[parameters('adminPassword')]",
-            "customData": "IyEvYmluL2Jhc2gNCg0KaW5zdGFuY2VuYW1lPWhvc3RuYW1lIA0KYmxvYnVyaT0iaHR0cHM6Ly9yc3BpdHp0ZXN0aW5nZGlhZzc2NC5ibG9iLmNvcmUud2luZG93cy5uZXQvYm9vdHRpbWUvJCgkaW5zdGFuY2VuYW1lKT9zdj0yMDE1LTA0LTA1JnNyPWMmc2lnPVJQaDQwcjJMenNYcUFrREZqT05BeEVOZlRGMUZXOEdUelBHOGlCU3pKalUlM0Qmc2U9MjAxNi0xMS0wOVQxOSUzQTAwJTNBNThaJnNwPXJ3ZCINCmN1cmwgLUggIngtbXMtYmxvYi10eXBlOiBCbG9ja0Jsb2IiIC1IICJ4LW1zLXZlcnNpb246IDIwMTUtMDctMDgiIC1YUFVUICRibG9idXJpIC1kICJGT08iDQo="
+            "customData": "IyEvYmluL2Jhc2gNCg0KaW5zdGFuY2VuYW1lPWhvc3RuYW1lIA0KYmxvYnVyaT0iaHR0cHM6Ly9mbGlwc3RvcmFjY291bnQuYmxvYi5jb3JlLndpbmRvd3MubmV0L2Jvb3R0aW1lLyQoJGluc3RhbmNlbmFtZSk/c3Y9MjAxNS0wNC0wNSZzcz1iJnNydD1jJnNwPXJ3ZGwmc2U9MjAxNi0xMS0zMFQwOSUzQTIxJTNBMzBaJnNpZz1PYnVGdXRxRkxldmIxSWc3TjBFazA5dGV3NTdybzVHdk5aNzU3b3RtNVpvJTNEDQpjdXJsIC1IICJ4LW1zLWJsb2ItdHlwZTogQmxvY2tCbG9iIiAtSCAieC1tcy12ZXJzaW9uOiAyMDE1LTA3LTA4IiAtWFBVVCAkYmxvYnVyaSAtZCAiRk9PIg=="
             },
           "networkProfile": {
             "networkInterfaceConfigurations": [
