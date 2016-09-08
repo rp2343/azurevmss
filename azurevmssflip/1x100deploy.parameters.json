@@ -9,7 +9,7 @@
       "value": 1
     },
     "instanceCountPerVMSS": {
-      "value": 100
+      "value": 5
     },
     "adminUsername": {
       "value": "richard"
